@@ -1,7 +1,7 @@
 # Grok-Sentiment: Simple AI Sentiment Analyzer
 
 Grok-style tool for analyzing text sentiment (positive, negative, or neutral scores). Tuned with FinBERT for finance/trading vibes, but works on any text like news or tweets.
-
+[![Stars](https://img.shields.io/github/stars/RONMCG1/grok-sentiment?style=social)](https://github.com/RONMCG1/grok-sentiment/stargazers)
 ## Why This Tool?
 - Quick sentiment scores: -1.0 (very negative) to +1.0 (very positive), 0 for neutral.
 - Easy for devs/traders: Plug into bots, scripts, or command line.
