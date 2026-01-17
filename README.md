@@ -9,11 +9,11 @@ Grok-style tool for analyzing text sentiment (positive, negative, or neutral sco
 
 Built as a nod to Grok/xAI – if you're in Bastrop or AI scene, hit me up.
 
-## Installation
+## Installationpip 
 1. Install dependencies:
 2. pip install transformers torch
 3. 2. Download `grok_sentiment.py` from this repo.
-
+      install git+https://github.com/RONMCG1/grok-sentiment.git
 ## Usage
 ### As a Library
 ```python
